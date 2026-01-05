@@ -444,7 +444,7 @@ static void draw_frame_credits(void)
 }
 
 static const char credits[] =
-	"   PicoArch rev. " REVISION "\n\n\n\n"
+	"   PicoArch rev. v1.0 funkey-ss\n\n\n\n"
 	"      --- Credits ---\n\n\n"
 	" neonloop: original author\n\n"
 	" Hairo:    .sav/.srm option\n\n"

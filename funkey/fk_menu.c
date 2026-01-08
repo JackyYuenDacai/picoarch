@@ -57,8 +57,8 @@ extern int video_height;
 #define MENU_ERROR_PRINTF(...)
 #endif //MENU_ERROR
 
-#define SCREEN_HORIZONTAL_SIZE      240 //RES_HW_SCREEN_HORIZONTAL
-#define SCREEN_VERTICAL_SIZE        240 //RES_HW_SCREEN_VERTICAL
+#define SCREEN_HORIZONTAL_SIZE      1080 //RES_HW_SCREEN_HORIZONTAL
+#define SCREEN_VERTICAL_SIZE        1240 //RES_HW_SCREEN_VERTICAL
 
 #define SCROLL_SPEED_PX             30
 #define FPS_MENU                    60
